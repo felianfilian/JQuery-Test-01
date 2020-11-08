@@ -1,2 +1,8 @@
 # JQuery Test 01
- Improve the JQuery Skills
+
+from the NetNinja Series
+Dennis Schmalstieg
+
+# Goals
+
+- Improve JQuery Skills
