@@ -99,6 +99,10 @@ nav ul {
   list-style: none;
 }
 
+blockquote {
+  display: none;
+}
+
 blockquote,
 q {
   quotes: none;
@@ -311,6 +315,10 @@ section#points-of-sale ul {
 #points-of-sale li {
   float: left;
   width: 32%;
+}
+
+#points-of-sale li p {
+  display: none;
 }
 
 #points-of-sale li:nth-child(2) {
